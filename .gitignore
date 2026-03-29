@@ -1,0 +1,8 @@
+node_modules/
+token.json
+credentials.json
+calendar-cache.json
+task-state.json
+*.log
+.DS_Store
+Thumbs.db

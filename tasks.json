@@ -1,0 +1,47 @@
+{
+  "title": "Dette skal du i dag",
+  "weekdays": {
+    "monday": [
+      "Planlegg uka i 10 minutter",
+      "Jobb med viktigste oppgave først",
+      "Ta en kort treningspause"
+    ],
+    "tuesday": [
+      "Svar pa viktige meldinger",
+      "Fullfor hovedoppgave for dagen",
+      "Rydd skrivebordet for du logger av"
+    ],
+    "wednesday": [
+      "Sjekk progresjon pa ukemal",
+      "Jobb 90 minutter uten distraksjoner",
+      "Ga en kort tur"
+    ],
+    "thursday": [
+      "Avslutt eller deleger hengende oppgaver",
+      "Ferdigstill viktig leveranse",
+      "Planlegg morgendagen"
+    ],
+    "friday": [
+      "Oppsummer uka",
+      "Lukk smaoppgaver",
+      "Gjor klart til neste uke"
+    ],
+    "saturday": [
+      "Handle det du trenger",
+      "Gjor en praktisk ting hjemme",
+      "Ta deg tid til noe hyggelig"
+    ],
+    "sunday": [
+      "Planlegg mandagen",
+      "Vask eller rydd litt",
+      "Koble av uten skjerm en stund"
+    ]
+  },
+  "overrides": {
+    "2026-03-28": [
+      "Spise is",
+      "Tilpass oppgavene i tasks.json",
+      "Test at appen aapner riktig"
+    ]
+  }
+}

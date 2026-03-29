@@ -1,0 +1,14 @@
+{
+  "name": "todo-sidepanel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:calendar": "node ./sync-google-calendar.mjs",
+    "sync:test": "node ./google-quickstart.mjs"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "2.1.0",
+    "googleapis": "105.0.0"
+  }
+}

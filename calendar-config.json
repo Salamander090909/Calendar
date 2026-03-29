@@ -1,0 +1,7 @@
+{
+  "calendarIds": [
+    "primary"
+  ],
+  "includeAllDay": true,
+  "maxResultsPerCalendar": 20
+}
